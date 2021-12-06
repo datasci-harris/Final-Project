@@ -177,15 +177,24 @@ g.fig.savefig('graphs of facegrid.png')
 g.fig.clear()
 
 
+types = df.reset_index()['candidate_party'].unique() # to see how many slices
 
+explode_method=(0, 0.1, 0.1,0,0,0,0,0,0.1,0.1)
+explode_party= (0.01,0,0)
 
-#Also Plotting the composition of poll types
-types = df.reset_index()['methodology'].unique() # to see how many slices
-df.methodology.value_counts().plot(kind='pie', autopct='%1.1f%%',
-                                       explode=(0, 0.1, 0.1,0,0,0,0,0,0,0),shadow = True, startangle =90,title ='Pie Chart', labeldistance = 1.05)
-fig.show()
-fig.savefig("piechart.png")
+####
+#Also Plotting the composition of poll types with Generalized function
+####
 
+def piechart(df, element, explode):
+
+    plot = df[element].value_counts().plot(kind='pie', autopct='%1.1f%%',
+                                       explode = explode,shadow = True, startangle =90,title ='Pie Chart', labeldistance = 1.05)
+    return plot
+
+methodology_pie = piechart(df, 'methodology', explode_method) #yielding pie chart
+
+parties_pie = piechart(df, 'candidate_party', explode_party)
 
 ####
 
