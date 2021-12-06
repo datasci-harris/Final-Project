@@ -28,5 +28,17 @@ gov_droplist = ['question_id','poll_id','cycle','sponsor_ids','sponsors','seat_n
 df_gov =df_gov.drop(columns = gov_droplist)
 
 # we are interested in a couple more concise framework, so we will drop more
+df_gov = df_gov.drop(df_gov.columns[16:21],axis = 1)
 
-df_gov = df_gov.drop(df_gov.columns[16:20],axis = 1)
+# Now we will try to merge the remaining data with president
+# Data cleaning for president as well
+select_list = ['politician_id','politician','pollster_id','pollster','display_name','pollster_rating_id','pollster_rating_name','fte_grade','sample_size','methodology','yes','no','alternate_answers']
+df_psd = president[select_list]
+
+df = pd.merge(df_gov, df_psd, how='right', on = ['pollster_id','pollster','display_name','pollster_rating_id','pollster_rating_name','fte_grade','methodology'])
+df = df.drop(df.columns[12:15], axis = 1)  #drop three unnessary columns
+df = df.drop('politician_id', axis =1)
+
+# renaming size and candidate columns to clarify between presidents and governor candidates
+#df.rename = 
+
