@@ -164,8 +164,9 @@ sns.lmplot(x='pct',y='yes',data=df_democrat,fit_reg=True) #democrat
 sns.lmplot(x='pct',y='yes',data=df_republican,fit_reg=True) #republican
 
 g =sns.lmplot(x="pct", y="yes", col="candidate_party", hue="candidate_party",
-               data=df, col_wrap=2, height=4)
-g.set(xlim=(0,70),ylim =())
+               data=df, col_wrap=2, height=5)
+g.set(xlim=(0,70),ylim =(0,None),ylabel='Bidens Approval Rate',xlabel = 'Governors Polling Rate')
+g.fig.suptitle('Graph')
 
 ####
 # Interactive Plotting
