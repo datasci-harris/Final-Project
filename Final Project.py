@@ -16,6 +16,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 
+
 cwd = os.getcwd()
 path =r'C:\Users\xiaor\Documents\GitHub\Final-Project'
 
@@ -150,14 +151,18 @@ plt.legend(loc = 'best')
 ## plot title
 plt.title("Residual Errors for Democrats Governor Poll vs Biden Approval Rate")
 plt.show()
+plt.savefig('machine_learning_resid.png')
 
 
 ####
 # Plotting
 ####
-plt.scatter(X, Y)
-plt.plot(X, Y_pred, color='red')
-plt.show()
+fig, ax = plt.subplots()
+ax.scatter(X, Y)
+ax.plot(X, Y_pred, color='red')
+fig.show()
+fig.savefig("regression.png")
+fig.clear()
 
 # OR if revealing in Seaborn
 sns.lmplot(x='pct',y='yes',data=df_democrat,fit_reg=True) #democrat
@@ -167,11 +172,22 @@ g =sns.lmplot(x="pct", y="yes", col="candidate_party", hue="candidate_party",
                data=df, col_wrap=2, height=5)
 g.set(xlim=(0,70),ylim =(0,None),ylabel='Bidens Approval Rate',xlabel = 'Governors Polling Rate')
 g.fig.suptitle('Graph')
+g.fig.show()
+g.fig.savefig('graphs of facegrid.png')
+g.fig.clear()
+
+
+
+
+#Also Plotting the composition of poll types
+types = df.reset_index()['methodology'].unique() # to see how many slices
+df.methodology.value_counts().plot(kind='pie', autopct='%1.1f%%',
+                                       explode=(0, 0.1, 0.1,0,0,0,0,0,0,0),shadow = True, startangle =90,title ='Pie Chart', labeldistance = 1.05)
+fig.show()
+fig.savefig("piechart.png")
+
 
 ####
-# Interactive Plotting
-####
-
 
 
 
