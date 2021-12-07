@@ -1,0 +1,1270 @@
+,state,pollster_id,pollster,display_name,pollster_rating_id,pollster_rating_name,fte_grade,sample_size_governor,population,population_full,methodology,office_type,ranked_choice_reallocated,answer,candidate_name,candidate_party,pct,president,sample_size_president,yes,no,alternate_answers
+0,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+1,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,41.0,50.0,9.0
+2,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,41.0,50.0,9.0
+3,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1303.0,44.0,51.0,6.0
+4,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1303.0,44.0,51.0,6.0
+5,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,47.0,47.0,0.0
+6,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1996.0,45.0,51.0,4.0
+7,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+8,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,57.0,0.0
+9,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1306.0,40.0,45.0,0.0
+10,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,44.0,51.0,0.0
+11,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,57.0,0.0
+12,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2198.0,47.0,48.0,0.0
+13,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1578.0,43.0,51.0,6.0
+14,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,57.0,0.0
+15,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,43.0,53.0,4.0
+16,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,43.0,49.0,8.0
+17,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,43.0,49.0,8.0
+18,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1261.0,45.0,49.0,8.0
+19,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1261.0,45.0,49.0,8.0
+20,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,57.0,0.0
+21,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,1000.0,42.0,54.0,4.0
+22,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,820.0,45.0,52.0,3.0
+23,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,48.0,0.0
+24,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1001.0,43.0,53.0,3.0
+25,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,41.0,57.0,0.0
+26,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1083.0,48.0,51.0,1.0
+27,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,48.0,0.0
+28,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1002.0,43.0,54.0,2.0
+29,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1999.0,46.0,51.0,3.0
+30,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+31,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,48.0,0.0
+32,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2201.0,49.0,47.0,0.0
+33,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2727.0,42.0,47.0,11.0
+34,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+35,,1027,Saint Leo U.,Saint Leo University,299,Saint Leo University,1.5,,,,Online,,,,,,,Joe Biden,1000.0,52.1,44.9,3.0
+36,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1209.0,44.0,49.0,8.0
+37,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1032.0,44.0,50.0,6.0
+38,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+39,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,46.0,48.0,0.0
+40,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,57.0,0.0
+41,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.1,Joe Biden,1083.0,39.2,58.4,2.4
+42,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,49.4,Joe Biden,1083.0,39.2,58.4,2.4
+43,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Murphy,Philip Murphy,DEM,49.4,Joe Biden,1083.0,39.2,58.4,2.4
+44,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,45.2,Joe Biden,1083.0,39.2,58.4,2.4
+45,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.5,Joe Biden,1083.0,39.2,58.4,2.4
+46,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,48.4,Joe Biden,1083.0,39.2,58.4,2.4
+47,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.6,Joe Biden,1083.0,39.2,58.4,2.4
+48,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,46.3,Joe Biden,1083.0,39.2,58.4,2.4
+49,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.8,Joe Biden,1083.0,39.2,58.4,2.4
+50,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1083.0,39.2,58.4,2.4
+51,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1704.0,44.0,49.0,8.0
+52,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1704.0,44.0,49.0,8.0
+53,,1517,Georgetown University/Battleground,Georgetown University/Battleground,114,Georgetown University (Battleground),3.5,,,,Live Phone,,,,,,,Joe Biden,1000.0,45.3,52.2,2.5
+54,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+55,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+56,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,47.0,47.0,0.0
+57,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,47.0,47.0,6.0
+58,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,992.0,47.0,48.0,5.0
+59,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+60,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,41.0,58.0,0.0
+61,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,44.0,46.0,10.0
+62,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,44.0,46.0,10.0
+63,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1268.0,45.0,48.0,7.0
+64,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1268.0,45.0,48.0,7.0
+65,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1003.0,46.0,53.0,0.0
+66,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1098.0,47.0,51.0,2.0
+67,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,915.0,48.0,51.0,1.0
+68,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+69,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,823.0,42.0,52.0,6.0
+70,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1998.0,45.0,52.0,3.0
+71,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1342.0,37.0,52.0,12.0
+72,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1168.0,40.0,51.0,9.0
+73,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+74,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,45.0,54.0,2.0
+75,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+76,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,43.0,39.0,18.0
+77,,1510,CNBC/Hart Research/Public Opinion Strategies,CNBC/Hart Research/Public Opinion Strategies,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,800.0,41.0,52.0,0.0
+78,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,45.0,0.0
+79,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+80,,437,Selzer,Selzer & Co.,304,Selzer & Co.,4.3,,,,Live Phone,,,,,,,Joe Biden,915.0,37.0,50.0,12.0
+81,,437,Selzer,Selzer & Co.,304,Selzer & Co.,4.3,,,,Live Phone,,,,,,,Joe Biden,735.0,40.0,51.0,8.0
+82,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+83,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,47.0,48.0,5.0
+84,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+85,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+86,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,46.0,48.0,0.0
+87,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+88,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,508.0,40.0,56.0,4.0
+89,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+90,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+91,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2201.0,48.0,47.0,0.0
+92,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+93,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+94,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,40.0,50.0,11.0
+95,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,40.0,50.0,11.0
+96,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1266.0,42.0,51.0,7.0
+97,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1266.0,42.0,51.0,7.0
+98,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,47.0,48.0,0.0
+99,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,46.0,49.0,0.0
+100,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,47.0,48.0,0.0
+101,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+102,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1999.0,46.0,51.0,3.0
+103,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,41.0,57.0,0.0
+104,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Online,,,,,,,Joe Biden,1000.0,50.0,49.0,0.0
+105,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Online,,,,,,,Joe Biden,,50.0,50.0,0.0
+106,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1001.0,46.0,51.0,3.0
+107,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+108,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1000.0,45.0,53.0,2.0
+109,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,41.0,58.0,0.0
+110,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+111,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,47.0,50.0,0.0
+112,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+113,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2054.0,50.0,50.0,0.0
+114,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2054.0,50.0,50.0,0.0
+115,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,46.0,0.0
+116,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+117,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,48.0,47.0,0.0
+118,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+119,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+120,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,55.0,0.0
+121,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.1,Joe Biden,1087.0,39.6,56.0,4.3
+122,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,49.4,Joe Biden,1087.0,39.6,56.0,4.3
+123,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Murphy,Philip Murphy,DEM,49.4,Joe Biden,1087.0,39.6,56.0,4.3
+124,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,45.2,Joe Biden,1087.0,39.6,56.0,4.3
+125,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.5,Joe Biden,1087.0,39.6,56.0,4.3
+126,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,48.4,Joe Biden,1087.0,39.6,56.0,4.3
+127,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.6,Joe Biden,1087.0,39.6,56.0,4.3
+128,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,46.3,Joe Biden,1087.0,39.6,56.0,4.3
+129,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.8,Joe Biden,1087.0,39.6,56.0,4.3
+130,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1087.0,39.6,56.0,4.3
+131,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,516.0,39.0,53.0,9.0
+132,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+133,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,45.0,37.0,19.0
+134,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,42.0,48.0,10.0
+135,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,42.0,48.0,10.0
+136,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1261.0,44.0,49.0,6.0
+137,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1261.0,44.0,49.0,6.0
+138,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,54.0,0.0
+139,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+140,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1998.0,45.0,52.0,4.0
+141,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1326.0,38.0,53.0,9.0
+142,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1177.0,40.0,53.0,7.0
+143,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,45.0,49.0,0.0
+144,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1640.0,42.0,50.0,8.0
+145,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1640.0,42.0,50.0,8.0
+146,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,4400.0,46.0,49.0,0.0
+147,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,55.0,0.0
+148,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+149,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+150,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+151,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1308.0,44.0,40.0,0.0
+152,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+153,,383,PPP,Public Policy Polling,263,Public Policy Polling,3.7,,,,IVR/Text,,,,,,,Joe Biden,758.0,46.0,47.0,7.0
+154,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+155,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,46.0,50.0,0.0
+156,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,46.0,48.0,0.0
+157,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+158,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+159,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+160,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,46.0,0.0
+161,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,46.0,0.0
+162,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+163,,916,Public Religion Research Institute,Public Religion Research Institute,428,Public Religion Research Institute,3.5,,,,Online,,,,,,,Joe Biden,2508.0,52.0,48.0,1.0
+164,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,935.0,48.0,43.0,9.0
+165,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+166,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,40.0,49.0,11.0
+167,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,40.0,49.0,11.0
+168,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1246.0,43.0,51.0,6.0
+169,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1246.0,43.0,51.0,6.0
+170,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+171,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1999.0,47.0,50.0,3.0
+172,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,46.0,0.0
+173,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,41.0,58.0,0.0
+174,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1000.0,46.0,51.0,3.0
+175,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1099.0,50.0,49.0,1.0
+176,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,45.0,47.0,0.0
+177,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1001.0,46.0,52.0,2.0
+178,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,40.0,58.0,0.0
+179,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,47.0,0.0
+180,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1220.0,45.0,46.0,9.0
+181,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1029.0,46.0,46.0,8.0
+182,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,935.0,47.0,42.0,11.0
+183,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,45.0,48.0,6.0
+184,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,47.0,49.0,0.0
+185,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+186,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+187,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,44.0,51.0,0.0
+188,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+189,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1005.0,50.0,48.0,2.0
+190,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,829.0,53.0,47.0,1.0
+191,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+192,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,54.0,0.0
+193,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+194,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,55.0,0.0
+195,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,43.0,46.0,11.0
+196,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,43.0,46.0,11.0
+197,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1281.0,46.0,48.0,6.0
+198,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1281.0,46.0,48.0,6.0
+199,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,46.0,0.0
+200,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+201,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,45.0,34.0,21.0
+202,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1998.0,47.0,50.0,3.0
+203,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,50.0,46.0,4.0
+204,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,991.0,51.0,46.0,0.0
+205,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,44.0,0.0
+206,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,56.0,0.0
+207,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,4400.0,46.0,48.0,0.0
+208,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,3201.0,45.0,50.0,6.0
+209,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,3201.0,45.0,50.0,6.0
+210,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+211,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,56.0,0.0
+212,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+213,,370,Pew,Pew Research Center,253,Pew Research Center,2.5,,,,Online,,,,,,,Joe Biden,10371.0,44.0,53.0,3.0
+214,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,48.0,48.0,4.0
+215,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,46.0,0.0
+216,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+217,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+218,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1005.0,43.0,53.0,4.0
+219,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,44.0,50.0,0.0
+220,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1578.0,48.0,50.0,2.0
+221,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,43.0,55.0,0.0
+222,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,51.0,44.0,0.0
+223,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+224,,1075,Marquette Law School,Marquette Law School,195,Marquette University Law School,3.5,,,,Live Phone,,,,,,,Joe Biden,1411.0,48.0,52.0,0.0
+225,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+226,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1002.0,50.0,49.0,1.0
+227,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,46.0,0.0
+228,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,44.0,48.0,8.0
+229,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,44.0,48.0,8.0
+230,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1252.0,46.0,49.0,5.0
+231,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1252.0,46.0,49.0,5.0
+232,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+233,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,47.0,52.0,1.0
+234,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+235,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,45.0,0.0
+236,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1997.0,47.0,50.0,3.0
+237,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,4400.0,48.0,46.0,0.0
+238,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1002.0,48.0,50.0,3.0
+239,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1210.0,42.0,50.0,9.0
+240,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1079.0,44.0,50.0,7.0
+241,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,53.0,0.0
+242,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,995.0,49.0,49.0,2.0
+243,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,802.0,46.0,46.0,8.0
+244,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,747.0,47.0,46.0,7.0
+245,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,46.0,0.0
+246,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,16843.0,47.0,49.0,4.0
+247,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,46.0,0.0
+248,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,47.0,0.0
+249,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,52.0,0.0
+250,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+251,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,47.0,48.0,6.0
+252,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,958.0,47.0,44.0,9.0
+253,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,47.0,48.0,0.0
+254,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+255,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+256,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,47.0,46.0,0.0
+257,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.1,Joe Biden,1086.0,43.5,54.3,2.1
+258,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,49.4,Joe Biden,1086.0,43.5,54.3,2.1
+259,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Murphy,Philip Murphy,DEM,49.4,Joe Biden,1086.0,43.5,54.3,2.1
+260,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,45.2,Joe Biden,1086.0,43.5,54.3,2.1
+261,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.5,Joe Biden,1086.0,43.5,54.3,2.1
+262,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,48.4,Joe Biden,1086.0,43.5,54.3,2.1
+263,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.6,Joe Biden,1086.0,43.5,54.3,2.1
+264,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,46.3,Joe Biden,1086.0,43.5,54.3,2.1
+265,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.8,Joe Biden,1086.0,43.5,54.3,2.1
+266,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1086.0,43.5,54.3,2.1
+267,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1803.0,55.0,45.0,0.0
+268,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,52.0,0.0
+269,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2011.0,50.0,50.0,0.0
+270,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2011.0,50.0,50.0,0.0
+271,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+272,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1000.0,48.0,46.0,6.0
+273,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,52.0,0.0
+274,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,18732.0,47.0,49.0,4.0
+275,,552,Winston,The Winston Group,385,The Winston Group,3.5,,,,Online,,,,,,,Joe Biden,1000.0,46.0,44.0,9.0
+276,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+277,,379,POS,Public Opinion Strategies,260,Public Opinion Strategies,3.7,,,,Live Phone,,,,,,,Joe Biden,800.0,48.0,50.0,0.0
+278,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,53.0,0.0
+279,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,39.0,50.0,12.0
+280,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,39.0,50.0,12.0
+281,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1264.0,43.0,52.0,6.0
+282,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1264.0,43.0,52.0,6.0
+283,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,45.0,0.0
+284,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone/Online,,,,,,,Joe Biden,2119.0,52.0,48.0,0.0
+285,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone/Online,,,,,,,Joe Biden,1838.0,50.0,50.0,0.0
+286,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,17494.0,47.0,49.0,0.0
+287,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,52.0,0.0
+288,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,50.0,44.0,0.0
+289,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,46.0,0.0
+290,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,46.0,45.0,0.0
+291,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,46.0,36.0,18.0
+292,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,42.0,52.0,5.0
+293,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,52.0,0.0
+294,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+295,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+296,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1305.0,44.0,43.0,13.0
+297,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1044.0,47.0,45.0,8.0
+298,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+299,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,46.0,48.0,0.0
+300,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,54.0,0.0
+301,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,49.0,46.0,0.0
+302,Virginia,1365,Change Research,Change Research,48,Change Research,2.7,1334.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.0,Joe Biden,1775.0,46.0,54.0,0.0
+303,Virginia,1365,Change Research,Change Research,48,Change Research,2.7,1334.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,44.0,Joe Biden,1775.0,46.0,54.0,0.0
+304,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,47.0,45.0,0.0
+305,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,7988.0,49.0,48.0,3.0
+306,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+307,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1605.0,44.0,49.0,8.0
+308,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1605.0,44.0,49.0,8.0
+309,,1102,Emerson College Polling Society,Emerson College,88,Emerson College,3.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,45.8,46.9,7.2
+310,,11,ABC,ABC News/The Washington Post,3,ABC News/The Washington Post,4.3,,,,Live Phone,,,,,,,Joe Biden,1006.0,44.0,51.0,5.0
+311,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,48.0,45.0,0.0
+312,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,42.0,56.0,0.0
+313,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,45.0,44.0,10.0
+314,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,45.0,44.0,10.0
+315,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1262.0,47.0,46.0,7.0
+316,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1262.0,47.0,46.0,7.0
+317,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1241.0,43.0,51.0,7.0
+318,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1145.0,43.0,51.0,6.0
+319,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,48.0,44.0,0.0
+320,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1997.0,47.0,49.0,3.0
+321,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1004.0,48.0,49.0,2.0
+322,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,54.0,0.0
+323,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1002.0,47.0,50.0,3.0
+324,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,44.0,0.0
+325,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15623.0,48.0,49.0,3.0
+326,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,54.0,0.0
+327,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,48.0,45.0,0.0
+328,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,44.0,0.0
+329,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,44.0,0.0
+330,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,44.0,0.0
+331,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,43.0,0.0
+332,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1006.0,49.0,46.0,0.0
+333,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,53.0,0.0
+334,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,43.0,0.0
+335,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+336,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,51.0,44.0,0.0
+337,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,43.0,0.0
+338,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+339,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,52.0,43.0,0.0
+340,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1996.0,50.0,48.0,2.0
+341,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,46.0,44.0,10.0
+342,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,46.0,44.0,10.0
+343,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1242.0,48.0,46.0,6.0
+344,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1242.0,48.0,46.0,6.0
+345,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,49.0,43.0,0.0
+346,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,618.0,40.0,50.0,10.0
+347,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,44.0,55.0,0.0
+348,,458,Suffolk,Suffolk University,323,Suffolk University,3.3,,,,Live Phone,,,,,,,Joe Biden,1000.0,41.2,55.1,3.7
+349,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,52.0,43.0,0.0
+350,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,50.0,43.0,0.0
+351,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2846.0,49.0,43.0,8.0
+352,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,46.0,46.0,7.0
+353,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2201.0,51.0,45.0,0.0
+354,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,53.0,0.0
+355,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,50.0,42.0,0.0
+356,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,50.0,42.0,0.0
+357,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2142.0,50.0,50.0,0.0
+358,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2142.0,50.0,50.0,0.0
+359,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,49.0,46.0,5.0
+360,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,992.0,50.0,46.0,4.0
+361,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,42.0,0.0
+362,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1002.0,46.0,49.0,0.0
+363,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,53.0,0.0
+364,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1999.0,50.0,47.0,3.0
+365,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,42.0,0.0
+366,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,4427.0,50.0,44.0,6.0
+367,,1193,SurveyMonkey,SurveyMonkey,324,SurveyMonkey,2.0,,,,Online,,,,,,,Joe Biden,1066.0,47.0,45.0,0.0
+368,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1649.0,47.0,46.0,8.0
+369,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1649.0,47.0,46.0,8.0
+370,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,53.0,0.0
+371,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1016.0,52.0,46.0,2.0
+372,,461,Susquehanna,Susquehanna Polling & Research Inc.,326,Susquehanna Polling & Research Inc.,3.3,,,,Live Phone,,,,,,,Joe Biden,800.0,49.0,45.0,6.0
+373,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,41.0,0.0
+374,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,54.0,0.0
+375,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,44.0,44.0,12.0
+376,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,44.0,44.0,12.0
+377,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1250.0,47.0,47.0,7.0
+378,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1250.0,47.0,47.0,7.0
+379,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,1000.0,49.0,48.0,3.0
+380,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,790.0,50.0,48.0,2.0
+381,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+382,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1006.0,49.0,48.0,3.0
+383,,1582,John Zogby Strategies/EMI Research Solutions,John Zogby Strategies/EMI Research Solutions,583,John Zogby Strategies/EMI Research Solutions,2.5,,,,Online,,,,,,,Joe Biden,956.0,51.8,42.3,5.8
+384,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,947.0,46.0,47.0,0.0
+385,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1999.0,51.0,46.0,3.0
+386,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,54.0,40.0,0.0
+387,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,52.0,43.0,0.0
+388,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,45.0,54.0,0.0
+389,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,40.0,0.0
+390,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1729.0,54.0,46.0,0.0
+391,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1001.0,50.0,46.0,4.0
+392,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+393,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1005.0,51.0,47.0,2.0
+394,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1198.0,53.0,41.0,0.0
+395,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,53.0,0.0
+396,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,41.0,0.0
+397,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+398,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,45.0,4.0
+399,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+400,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,40.0,0.0
+401,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+402,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1002.0,51.0,43.0,0.0
+403,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,52.0,0.0
+404,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+405,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,52.0,0.0
+406,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.1,Joe Biden,1073.0,46.5,47.5,6.0
+407,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,49.4,Joe Biden,1073.0,46.5,47.5,6.0
+408,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Murphy,Philip Murphy,DEM,49.4,Joe Biden,1073.0,46.5,47.5,6.0
+409,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,45.2,Joe Biden,1073.0,46.5,47.5,6.0
+410,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.5,Joe Biden,1073.0,46.5,47.5,6.0
+411,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,48.4,Joe Biden,1073.0,46.5,47.5,6.0
+412,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.6,Joe Biden,1073.0,46.5,47.5,6.0
+413,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,46.3,Joe Biden,1073.0,46.5,47.5,6.0
+414,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.8,Joe Biden,1073.0,46.5,47.5,6.0
+415,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1073.0,46.5,47.5,6.0
+416,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+417,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+418,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,46.0,43.0,11.0
+419,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,46.0,43.0,11.0
+420,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1251.0,47.0,45.0,7.0
+421,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1251.0,47.0,45.0,7.0
+422,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1002.0,53.0,46.0,2.0
+423,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,41.0,0.0
+424,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,4918.0,54.0,40.0,6.0
+425,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1996.0,51.0,46.0,3.0
+426,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,41.0,0.0
+427,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+428,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,41.0,0.0
+429,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+430,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,50.0,41.0,0.0
+431,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,41.0,0.0
+432,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+433,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,50.0,43.0,0.0
+434,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1103.0,55.0,40.0,5.0
+435,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+436,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+437,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+438,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+439,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,48.0,36.0,16.0
+440,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+441,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,49.0,43.0,9.0
+442,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,49.0,43.0,9.0
+443,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1233.0,49.0,44.0,6.0
+444,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1233.0,49.0,44.0,6.0
+445,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,54.0,45.0,2.0
+446,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,41.0,0.0
+447,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,42.0,0.0
+448,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1998.0,52.0,46.0,2.0
+449,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,51.0,43.0,0.0
+450,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1552.0,48.0,44.0,8.0
+451,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1552.0,48.0,44.0,8.0
+452,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+453,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1000.0,51.0,46.0,3.0
+454,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,41.0,0.0
+455,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1290.0,46.0,43.0,12.0
+456,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1145.0,47.0,44.0,9.0
+457,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+458,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1001.0,53.0,45.0,2.0
+459,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,39.0,0.0
+460,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+461,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+462,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,515.0,43.0,51.0,7.0
+463,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,40.0,0.0
+464,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1322.0,52.0,34.0,0.0
+465,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1026.0,57.0,34.0,0.0
+466,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+467,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2000.0,51.0,47.0,2.0
+468,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,54.0,42.0,0.0
+469,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1788.0,52.0,43.0,5.0
+470,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+471,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+472,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1132.0,49.0,44.0,6.0
+473,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,943.0,50.0,45.0,5.0
+474,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+475,,1510,CNBC/Hart Research/Public Opinion Strategies,CNBC/Hart Research/Public Opinion Strategies,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,802.0,48.0,45.0,7.0
+476,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+477,,1418,WPA Intelligence,WPA Intelligence,383,WPA Intelligence (WPAi),2.5,,,,Online,,,,,,,Joe Biden,1000.0,47.0,44.0,9.0
+478,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,46.0,52.0,0.0
+479,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,46.0,44.0,10.0
+480,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,46.0,44.0,10.0
+481,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1280.0,49.0,45.0,6.0
+482,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1280.0,49.0,45.0,6.0
+483,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+484,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,41.0,0.0
+485,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1997.0,52.0,45.0,4.0
+486,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+487,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,804.0,48.0,44.0,8.0
+488,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,753.0,49.0,44.0,7.0
+489,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+490,,1075,Marquette Law School,Marquette Law School,195,Marquette University Law School,3.5,,,,Live Phone,,,,,,,Joe Biden,1010.0,58.0,42.0,0.0
+491,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2201.0,54.0,40.0,0.0
+492,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+493,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+494,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+495,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1143.0,55.0,43.0,2.0
+496,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+497,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,54.0,40.0,0.0
+498,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+499,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+500,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,949.0,58.0,42.0,0.0
+501,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+502,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+503,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1007.0,50.0,45.0,5.0
+504,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+505,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,53.0,43.0,4.0
+506,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,991.0,54.0,43.0,0.0
+507,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,48.0,40.0,12.0
+508,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,48.0,40.0,12.0
+509,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1272.0,50.0,43.0,7.0
+510,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1272.0,50.0,43.0,7.0
+511,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,40.0,0.0
+512,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+513,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1000.0,52.0,44.0,4.0
+514,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1308.0,59.0,41.0,0.0
+515,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+516,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15401.0,55.0,40.0,0.0
+517,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1997.0,52.0,44.0,3.0
+518,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1001.0,54.0,45.0,2.0
+519,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2199.0,53.0,41.0,0.0
+520,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+521,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+522,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2238.0,58.0,42.0,0.0
+523,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2238.0,58.0,42.0,0.0
+524,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+525,,425,Sacred Heart University,Sacred Heart University,453,Sacred Heart University,2.5,,,,Online,,,,,,,Joe Biden,1500.0,52.1,35.7,12.2
+526,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+527,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,53.0,42.0,0.0
+528,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+529,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1715.0,50.0,42.0,8.0
+530,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1715.0,50.0,42.0,8.0
+531,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+532,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+533,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+534,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+535,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,47.0,43.0,10.0
+536,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,47.0,43.0,10.0
+537,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1292.0,49.0,45.0,6.0
+538,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1292.0,49.0,45.0,6.0
+539,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,4398.0,54.0,39.0,0.0
+540,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+541,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1996.0,52.0,45.0,3.0
+542,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+543,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+544,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+545,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+546,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,51.0,41.0,7.0
+547,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,518.0,46.0,46.0,7.0
+548,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,3995.0,53.0,45.0,3.0
+549,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+550,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,938.0,59.0,41.0,0.0
+551,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+552,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,52.0,43.0,0.0
+553,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+554,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+555,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+556,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+557,,573,Zogby,Zogby Analytics,395,Zogby Interactive/JZ Analytics,2.7,,,,Online,,,,,,,Joe Biden,681.0,60.0,39.0,1.0
+558,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,40.0,10.0
+559,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,40.0,10.0
+560,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1281.0,51.0,44.0,5.0
+561,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1281.0,51.0,44.0,5.0
+562,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+563,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+564,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2193.0,56.0,38.0,0.0
+565,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+566,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1003.0,56.0,43.0,2.0
+567,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+568,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+569,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1424.0,50.0,37.0,0.0
+570,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1145.0,54.0,38.0,0.0
+571,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+572,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,51.0,42.0,0.0
+573,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+574,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+575,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,950.0,60.0,40.0,0.0
+576,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,49.0,0.0
+577,,11,ABC,ABC News/The Washington Post,3,ABC News/The Washington Post,4.3,,,,Live Phone,,,,,,,Joe Biden,907.0,50.0,42.0,8.0
+578,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+579,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+580,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,48.0,43.0,10.0
+581,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,48.0,43.0,10.0
+582,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1290.0,50.0,46.0,5.0
+583,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1290.0,50.0,46.0,5.0
+584,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+585,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1115.0,50.0,43.0,7.0
+586,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,905.0,51.0,44.0,6.0
+587,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1989.0,54.0,43.0,3.0
+588,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+589,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1000.0,54.0,43.0,3.0
+590,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+591,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+592,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+593,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+594,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+595,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,53.0,40.0,7.0
+596,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1592.0,50.0,43.0,7.0
+597,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1592.0,50.0,43.0,7.0
+598,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,58.0,38.0,0.0
+599,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+600,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+601,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+602,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2082.0,58.0,38.0,0.0
+603,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+604,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1753.0,51.0,46.7,2.2
+605,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1753.0,51.0,46.7,2.2
+606,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+607,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,40.0,10.0
+608,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,40.0,10.0
+609,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1223.0,52.0,44.0,4.0
+610,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1223.0,52.0,44.0,4.0
+611,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1001.0,56.0,43.0,1.0
+612,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1001.0,55.0,42.0,3.0
+613,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,39.0,0.0
+614,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+615,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+616,,927,GQR / Democracy Corps,GQR Research,126,GQR Research (GQRR),3.0,,,,Online,,,,,,,Joe Biden,2000.0,57.0,43.0,0.0
+617,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1001.0,49.0,40.0,11.0
+618,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2041.0,54.0,43.0,2.0
+619,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1995.0,58.0,40.0,2.0
+620,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,52.0,43.0,5.0
+621,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,990.0,52.0,43.0,0.0
+622,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+623,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,55.0,44.0,1.0
+624,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,38.0,0.0
+625,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,38.0,0.0
+626,,1516,East Carolina University,East Carolina University,523,East Carolina University,2.5,,,,IVR/Online/Live Phone,,,,,,,Joe Biden,1105.0,47.9,40.9,11.2
+627,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+628,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+629,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1012.0,56.0,42.0,2.0
+630,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1002.0,52.0,42.0,6.0
+631,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+632,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2006.0,59.0,34.0,7.0
+633,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+634,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,4420.0,55.0,41.0,5.0
+635,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+636,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+637,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+638,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,48.0,43.0,10.0
+639,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,48.0,43.0,10.0
+640,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1305.0,48.0,45.0,7.0
+641,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1305.0,48.0,45.0,7.0
+642,,1486,Climate Nexus,Climate Nexus,506,Climate Nexus,,,,,Online,,,,,,,Joe Biden,1525.0,56.0,39.0,5.0
+643,,1678,Momentive,Momentive/SurveyMonkey,324,SurveyMonkey,2.0,,,,Online,,,,,,,Joe Biden,2309.0,53.0,42.0,3.0
+644,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+645,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+646,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1001.0,52.0,44.0,4.0
+647,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1125.0,55.0,44.0,1.0
+648,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,810.0,48.0,43.0,9.0
+649,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,758.0,49.0,43.0,8.0
+650,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+651,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1994.0,53.0,44.0,4.0
+652,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+653,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+654,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+655,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+656,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,55.0,40.0,0.0
+657,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+658,,552,Winston,The Winston Group,385,The Winston Group,3.5,,,,Online,,,,,,,Joe Biden,1000.0,54.0,38.0,8.0
+659,,1517,Georgetown University/Battleground,Georgetown University/Battleground,114,Georgetown University (Battleground),3.5,,,,Live Phone,,,,,,,Joe Biden,1000.0,52.0,45.0,3.0
+660,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+661,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,47.0,0.0
+662,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1885.0,61.0,39.0,0.0
+663,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+664,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+665,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,40.0,9.0
+666,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,40.0,9.0
+667,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1242.0,51.0,43.0,6.0
+668,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1242.0,51.0,43.0,6.0
+669,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,51.0,41.0,0.0
+670,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,39.0,0.0
+671,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1990.0,52.0,43.0,5.0
+672,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,54.0,40.0,0.0
+673,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+674,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+675,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1004.0,51.0,38.0,11.0
+676,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,49.0,0.0
+677,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+678,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,55.0,39.0,5.0
+679,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,519.0,50.0,42.0,8.0
+680,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+681,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,39.0,0.0
+682,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,54.0,42.0,0.0
+683,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+684,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,38.0,0.0
+685,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,49.0,0.0
+686,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,38.0,0.0
+687,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+688,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1893.0,61.0,39.0,0.0
+689,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,40.0,10.0
+690,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,40.0,10.0
+691,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1275.0,50.0,43.0,7.0
+692,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1275.0,50.0,43.0,7.0
+693,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,38.0,0.0
+694,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,53.0,45.0,0.0
+695,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+696,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,53.0,45.0,0.0
+697,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+698,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2199.0,56.0,37.0,0.0
+699,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+700,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1305.0,53.0,32.0,0.0
+701,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1006.0,59.0,32.0,0.0
+702,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+703,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,52.0,44.0,0.0
+704,,573,Zogby,Zogby Analytics,395,Zogby Interactive/JZ Analytics,2.7,,,,Online,,,,,,,Joe Biden,868.0,60.0,37.0,3.0
+705,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,55.0,43.0,0.0
+706,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+707,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,53.0,45.0,0.0
+708,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1588.0,49.0,41.0,10.0
+709,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1588.0,49.0,41.0,10.0
+710,,1690,"Cor Services, Inc.","Cor Services, Inc.",688,"Cor Services, Inc.",,,,,IVR,,,,,,,Joe Biden,519.0,51.0,42.0,6.0
+711,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+712,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,55.0,43.0,0.0
+713,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,52.0,39.0,8.0
+714,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,52.0,39.0,8.0
+715,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1248.0,52.0,42.0,5.0
+716,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1248.0,52.0,42.0,5.0
+717,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1003.0,54.0,42.0,4.0
+718,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+719,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,40.0,0.0
+720,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1993.0,55.0,41.0,0.0
+721,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,54.0,39.0,0.0
+722,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,54.0,44.0,0.0
+723,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1204.0,53.0,44.0,3.0
+724,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1316.0,49.0,41.0,10.0
+725,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1174.0,49.0,42.0,8.0
+726,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,39.0,0.0
+727,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1002.0,51.0,38.0,10.0
+728,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,54.0,43.0,0.0
+729,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,39.0,0.0
+730,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,38.0,0.0
+731,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,39.0,0.0
+732,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+733,,1582,John Zogby Strategies/EMI Research Solutions,John Zogby Strategies/EMI Research Solutions,583,John Zogby Strategies/EMI Research Solutions,2.5,,,,Online,,,,,,,Joe Biden,1011.0,59.0,40.0,0.0
+734,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,56.0,39.0,0.0
+735,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,973.0,62.0,38.0,0.0
+736,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,973.0,61.0,36.0,3.0
+737,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+738,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1994.0,59.0,38.0,4.0
+739,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,57.0,37.0,6.0
+740,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,987.0,57.0,37.0,6.0
+741,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+742,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+743,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1889.0,60.0,40.0,0.0
+744,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,38.0,0.0
+745,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+746,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+747,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,41.0,8.0
+748,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,41.0,8.0
+749,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1239.0,51.0,43.0,4.0
+750,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1239.0,51.0,43.0,4.0
+751,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,56.0,43.0,1.0
+752,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+753,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1016.0,54.0,40.0,6.0
+754,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,38.0,0.0
+755,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1992.0,54.0,42.0,4.0
+756,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1132.0,56.0,42.0,3.0
+757,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+758,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+759,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,36.0,0.0
+760,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+761,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+762,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,38.0,0.0
+763,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,39.0,0.0
+764,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+765,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+766,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+767,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1561.0,49.0,40.0,10.0
+768,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1561.0,49.0,40.0,10.0
+769,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+770,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,56.0,38.0,0.0
+771,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+772,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,37.0,0.0
+773,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+774,,1447,Civiqs,Civiqs,471,Civiqs,2.7,,,,Online,,,,,,,Joe Biden,1464.0,48.0,46.0,6.0
+775,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,39.0,9.0
+776,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,39.0,9.0
+777,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1204.0,52.0,44.0,4.0
+778,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1204.0,52.0,44.0,4.0
+779,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,37.0,0.0
+780,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+781,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1000.0,55.0,41.0,4.0
+782,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,37.0,0.0
+783,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,52.0,36.0,12.0
+784,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1994.0,56.0,40.0,4.0
+785,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,39.0,0.0
+786,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1003.0,52.0,38.0,9.0
+787,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,39.0,0.0
+788,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+789,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+790,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+791,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1249.0,53.0,41.0,6.0
+792,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1075.0,53.0,42.0,5.0
+793,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+794,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+795,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,38.0,0.0
+796,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.1,Joe Biden,1574.0,48.3,47.5,4.2
+797,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1081.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,49.4,Joe Biden,1574.0,48.3,47.5,4.2
+798,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Murphy,Philip Murphy,DEM,49.4,Joe Biden,1574.0,48.3,47.5,4.2
+799,New Jersey,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1085.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,45.2,Joe Biden,1574.0,48.3,47.5,4.2
+800,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.5,Joe Biden,1574.0,48.3,47.5,4.2
+801,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1095.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,48.4,Joe Biden,1574.0,48.3,47.5,4.2
+802,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.6,Joe Biden,1574.0,48.3,47.5,4.2
+803,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1074.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,46.3,Joe Biden,1574.0,48.3,47.5,4.2
+804,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,46.8,Joe Biden,1574.0,48.3,47.5,4.2
+805,Virginia,1250,Trafalgar Group,Trafalgar Group,338,Trafalgar Group,3.7,1104.0,lv,lv,IVR/Online/Text/Live Phone,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1574.0,48.3,47.5,4.2
+806,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+807,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,55.0,38.0,0.0
+808,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+809,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+810,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,939.0,60.0,40.0,0.0
+811,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+812,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,48.0,42.0,9.0
+813,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,48.0,42.0,9.0
+814,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1187.0,49.0,46.0,5.0
+815,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1187.0,49.0,46.0,5.0
+816,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+817,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,36.0,0.0
+818,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1991.0,57.0,38.0,5.0
+819,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,37.0,0.0
+820,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+821,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1842.0,63.0,36.0,1.0
+822,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+823,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,53.0,39.0,0.0
+824,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,38.0,0.0
+825,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,49.0,0.0
+826,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+827,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+828,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1300.0,51.0,32.0,0.0
+829,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1057.0,55.0,35.0,0.0
+830,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+831,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+832,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1558.0,54.0,37.0,9.0
+833,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1558.0,54.0,37.0,9.0
+834,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,940.0,59.0,38.0,4.0
+835,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,924.0,60.0,40.0,0.0
+836,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+837,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,55.0,38.0,0.0
+838,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,60.0,33.0,0.0
+839,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+840,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2819.0,60.0,40.0,0.0
+841,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+842,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+843,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,39.0,10.0
+844,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,39.0,10.0
+845,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1219.0,52.0,41.0,6.0
+846,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1219.0,52.0,41.0,6.0
+847,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+848,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,22000.0,57.0,36.0,0.0
+849,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,14872.0,57.0,39.0,4.0
+850,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1991.0,60.0,37.0,4.0
+851,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+852,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,989.0,53.0,44.0,3.0
+853,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone,,,,,,,Joe Biden,1004.0,53.0,43.0,4.0
+854,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone,,,,,,,Joe Biden,,52.0,45.0,3.0
+855,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+856,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1003.0,51.0,39.0,11.0
+857,Virginia,1478,Research Co.,Research Co.,449,Research Co.,2.7,450.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,47.0,Joe Biden,1000.0,53.0,42.0,5.0
+858,Virginia,1478,Research Co.,Research Co.,449,Research Co.,2.7,450.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,48.0,Joe Biden,1000.0,53.0,42.0,5.0
+859,Virginia,1478,Research Co.,Research Co.,449,Research Co.,2.7,450.0,lv,lv,Online,Governor,False,Blanding,Princess Blanding,OTH,2.0,Joe Biden,1000.0,53.0,42.0,5.0
+860,New Jersey,1478,Research Co.,Research Co.,449,Research Co.,2.7,450.0,lv,lv,Online,Governor,False,Murphy,Philip Murphy,DEM,50.0,Joe Biden,1000.0,53.0,42.0,5.0
+861,New Jersey,1478,Research Co.,Research Co.,449,Research Co.,2.7,450.0,lv,lv,Online,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,44.0,Joe Biden,1000.0,53.0,42.0,5.0
+862,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+863,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1986.0,57.0,37.0,0.0
+864,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+865,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2527.0,58.0,42.0,0.0
+866,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2527.0,58.0,42.0,0.0
+867,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+868,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1000.0,51.0,44.0,6.0
+869,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1000.0,51.0,44.0,6.0
+870,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+871,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1043.0,54.0,43.0,3.0
+872,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,54.0,39.0,0.0
+873,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,58.0,35.0,0.0
+874,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+875,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+876,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,49.0,0.0
+877,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1809.0,54.0,44.0,3.0
+878,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1688.0,54.0,44.0,2.0
+879,,590,Fox News,Fox News,103,Fox News/Beacon Research/Shaw & Co. Research,4.0,,,,Live Phone,,,,,,,Joe Biden,1002.0,54.0,43.0,3.0
+880,,11,ABC,ABC News/The Washington Post,3,ABC News/The Washington Post,4.3,,,,Live Phone,,,,,,,Joe Biden,1007.0,52.21,42.09,5.71
+881,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+882,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,961.0,57.0,40.0,3.0
+883,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+884,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,49.0,38.0,12.0
+885,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,49.0,38.0,12.0
+886,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1225.0,51.0,42.0,8.0
+887,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1225.0,51.0,42.0,8.0
+888,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,59.0,35.0,6.0
+889,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,988.0,59.0,35.0,0.0
+890,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,1000.0,53.0,39.0,8.0
+891,,736,NBC,NBC News,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,790.0,51.0,43.0,6.0
+892,Virginia,1365,Change Research,Change Research,48,Change Research,2.7,1653.0,lv,lv,Online/Text,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,49.0,Joe Biden,1025.0,51.0,49.0,0.0
+893,Virginia,1365,Change Research,Change Research,48,Change Research,2.7,1653.0,lv,lv,Online/Text,Governor,False,Youngkin,Glenn Youngkin,REP,43.0,Joe Biden,1025.0,51.0,49.0,0.0
+894,Virginia,1365,Change Research,Change Research,48,Change Research,2.7,1653.0,lv,lv,Online/Text,Governor,False,Blanding,Princess Blanding,OTH,3.0,Joe Biden,1025.0,51.0,49.0,0.0
+895,New Jersey,1365,Change Research,Change Research,48,Change Research,2.7,1215.0,a,a,Online/Text,Governor,False,Murphy,Philip Murphy,DEM,47.0,Joe Biden,1025.0,51.0,49.0,0.0
+896,New Jersey,1365,Change Research,Change Research,48,Change Research,2.7,1215.0,a,a,Online/Text,Governor,False,Ciattarelli,Jack M. Ciattarelli,REP,36.0,Joe Biden,1025.0,51.0,49.0,0.0
+897,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,38.0,0.0
+898,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1992.0,58.0,38.0,5.0
+899,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,36.0,0.0
+900,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2881.0,61.0,39.0,0.0
+901,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,58.0,35.0,0.0
+902,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,49.0,0.0
+903,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,58.0,35.0,0.0
+904,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,38.0,0.0
+905,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+906,,204,Hart Research Associates,Hart Research Associates,113,Garin-Hart-Yang Research Group,2.7,,,,Online,,,,,,,Joe Biden,1200.0,57.0,43.0,0.0
+907,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+908,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+909,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,4423.0,55.0,40.0,5.0
+910,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,4423.0,55.0,40.0,5.0
+911,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,37.0,0.0
+912,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,54.0,38.0,0.0
+913,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+914,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+915,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+916,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+917,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+918,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,49.0,42.0,9.0
+919,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,49.0,42.0,9.0
+920,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1263.0,51.0,43.0,5.0
+921,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1263.0,51.0,43.0,5.0
+922,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,3766.0,61.0,39.0,0.0
+923,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,57.5,40.5,2.0
+924,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1266.0,53.0,39.0,8.0
+925,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1066.0,52.0,41.0,7.0
+926,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+927,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1992.0,59.0,37.0,4.0
+928,,1447,Civiqs,Civiqs,471,Civiqs,2.7,,,,Online,,,,,,,Joe Biden,1541.0,48.0,47.0,6.0
+929,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+930,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,800.0,54.0,41.0,5.0
+931,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,743.0,53.0,43.0,5.0
+932,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1237.0,48.0,42.0,10.0
+933,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1114.0,50.0,42.0,8.0
+934,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1256.0,55.0,42.0,4.0
+935,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+936,,1510,CNBC/Hart Research/Public Opinion Strategies,CNBC/Hart Research/Public Opinion Strategies,221,NBC News/The Wall Street Journal,3.3,,,,Live Phone,,,,,,,Joe Biden,802.0,47.0,41.0,12.0
+937,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+938,,552,Winston,The Winston Group,385,The Winston Group,3.5,,,,Online,,,,,,,Joe Biden,1000.0,54.0,35.0,11.0
+939,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,37.0,0.0
+940,,370,Pew,Pew Research Center,253,Pew Research Center,2.5,,,,Online,,,,,,,Joe Biden,5109.0,59.0,39.0,2.0
+941,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+942,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+943,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,56.0,37.0,0.0
+944,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+945,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1649.0,52.0,38.0,9.0
+946,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1649.0,52.0,38.0,9.0
+947,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+948,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,48.0,0.0
+949,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+950,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+951,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,49.0,41.0,10.0
+952,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,49.0,41.0,10.0
+953,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1243.0,52.0,42.0,6.0
+954,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1243.0,52.0,42.0,6.0
+955,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+956,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2732.0,61.0,39.0,0.0
+957,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+958,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+959,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,37.0,0.0
+960,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1989.0,59.0,37.0,4.0
+961,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,54.0,39.0,0.0
+962,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+963,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+964,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1436.0,53.0,33.0,0.0
+965,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1215.0,59.0,34.0,0.0
+966,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+967,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,36.0,0.0
+968,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,36.0,0.0
+969,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+970,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,54.0,41.0,0.0
+971,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+972,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+973,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+974,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+975,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+976,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,48.0,40.0,12.0
+977,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,48.0,40.0,12.0
+978,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1259.0,50.0,43.0,7.0
+979,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1259.0,50.0,43.0,7.0
+980,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+981,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2043.0,58.0,39.0,4.0
+982,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1166.0,61.0,38.0,1.0
+983,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+984,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2041.0,55.0,38.0,0.0
+985,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1002.0,55.0,41.0,4.0
+986,,907,GBAO,GBAO,109,GBAO,2.5,,,,Online,,,,,,,Joe Biden,2000.0,54.0,43.0,3.0
+987,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+988,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,50.0,0.0
+989,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,36.0,0.0
+990,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+991,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+992,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1882.0,61.0,39.0,0.0
+993,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2080.0,58.0,36.0,0.0
+994,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,37.0,0.0
+995,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+996,,1193,SurveyMonkey,SurveyMonkey,324,SurveyMonkey,2.0,,,,Online,,,,,,,Joe Biden,16336.0,56.0,42.0,3.0
+997,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,53.0,41.0,0.0
+998,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1945.0,61.0,39.0,0.0
+999,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,51.0,0.0
+1000,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1606.0,53.0,36.0,11.0
+1001,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1606.0,53.0,36.0,11.0
+1002,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1309.0,52.0,40.0,8.0
+1003,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1167.0,52.0,41.0,7.0
+1004,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+1005,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,47.0,51.0,0.0
+1006,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1007,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+1008,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,41.0,10.0
+1009,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,41.0,10.0
+1010,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1267.0,51.0,43.0,5.0
+1011,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1267.0,51.0,43.0,5.0
+1012,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1013,,1562,Redfield & Wilton Strategies,Redfield & Wilton Strategies,562,Redfield & Wilton Strategies,2.5,,,,Online,,,,,,,Joe Biden,1500.0,53.0,35.0,11.0
+1014,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1994.0,57.0,40.0,4.0
+1015,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2858.0,60.0,40.0,0.0
+1016,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,50.0,0.0
+1017,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,35.0,0.0
+1018,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,60.0,35.0,0.0
+1019,,1486,Climate Nexus,Climate Nexus,506,Climate Nexus,,,,,Online,,,,,,,Joe Biden,1310.0,54.0,40.0,6.0
+1020,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,37.0,0.0
+1021,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,36.0,0.0
+1022,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1023,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1008.0,51.0,44.0,6.0
+1024,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1025,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,60.0,34.0,6.0
+1026,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,60.0,34.0,6.0
+1027,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,989.0,60.0,34.0,6.0
+1028,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1029,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,60.0,33.0,0.0
+1030,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1031,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,59.0,35.0,0.0
+1032,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,48.0,0.0
+1033,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1034,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+1035,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,53.0,37.0,9.0
+1036,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,53.0,37.0,9.0
+1037,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1218.0,55.0,41.0,5.0
+1038,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1218.0,55.0,41.0,5.0
+1039,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1040,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+1041,,1447,Civiqs,Civiqs,471,Civiqs,2.7,,,,Online,,,,,,,Joe Biden,1673.0,51.0,44.0,5.0
+1042,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1043,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1993.0,62.0,34.0,4.0
+1044,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+1045,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1001.0,56.0,40.0,4.0
+1046,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1047,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1010.0,54.0,42.0,5.0
+1048,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2839.0,59.0,41.0,0.0
+1049,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+1050,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1051,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,57.0,37.0,7.0
+1052,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2382.0,62.0,38.0,0.0
+1053,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2382.0,62.0,38.0,0.0
+1054,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,56.0,35.0,0.0
+1055,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1056,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1001.0,54.0,39.0,0.0
+1057,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+1058,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1059,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1306.0,60.0,40.0,0.0
+1060,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1306.0,60.0,40.0,0.0
+1061,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+1062,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1063,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1064,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,40.0,11.0
+1065,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,40.0,11.0
+1066,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1242.0,52.0,41.0,6.0
+1067,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1242.0,52.0,41.0,6.0
+1068,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1069,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1990.0,59.0,37.0,4.0
+1070,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2839.0,58.0,42.0,0.0
+1071,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1072,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2201.0,58.0,34.0,0.0
+1073,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone,,,,,,,Joe Biden,1009.0,51.0,41.0,7.0
+1074,,1361,SSRS,CNN/SSRS,297,SSRS,2.0,,,,Live Phone,,,,,,,Joe Biden,,50.0,44.0,5.0
+1075,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1227.0,49.0,42.0,10.0
+1076,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1082.0,48.0,43.0,9.0
+1077,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1078,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1079,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,36.0,0.0
+1080,,370,Pew,Pew Research Center,253,Pew Research Center,2.5,,,,Online,,,,,,,Joe Biden,6011.0,54.0,42.0,4.0
+1081,,1486,Climate Nexus,Climate Nexus,506,Climate Nexus,,,,,Online,,,,,,,Joe Biden,1624.0,53.0,39.0,9.0
+1082,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,53.0,39.0,7.0
+1083,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+1084,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+1085,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,58.0,35.0,0.0
+1086,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1087,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+1088,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,48.0,0.0
+1089,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+1090,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+1091,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,36.0,0.0
+1092,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,39.0,10.0
+1093,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,39.0,10.0
+1094,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1191.0,52.0,42.0,6.0
+1095,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1191.0,52.0,42.0,6.0
+1096,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1097,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1992.0,57.0,37.0,6.0
+1098,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,37.0,0.0
+1099,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1100,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,802.0,51.0,42.0,8.0
+1101,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,731.0,50.0,43.0,7.0
+1102,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1007.0,53.0,41.0,6.0
+1103,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1434.0,60.0,40.0,0.0
+1104,,1575,Léger,Léger,572,Léger,2.5,,,,Online,,,,,,,Joe Biden,1002.0,48.0,38.0,15.0
+1105,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1106,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,48.0,0.0
+1107,,294,McLaughlin,McLaughlin & Associates,203,McLaughlin & Associates,1.5,,,,Online,,,,,,,Joe Biden,1000.0,55.0,40.0,4.0
+1108,,383,PPP,Public Policy Polling,263,Public Policy Polling,3.7,,,,IVR/Text,,,,,,,Joe Biden,1390.0,47.0,43.0,9.0
+1109,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,54.0,40.0,6.0
+1110,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1111,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1280.0,53.0,30.0,0.0
+1112,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1058.0,57.0,32.0,0.0
+1113,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1114,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1909.0,58.0,42.0,0.0
+1115,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1004.0,57.0,37.0,0.0
+1116,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1117,,1508,Harris Poll,Harris Poll,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,1778.0,61.0,39.0,0.0
+1118,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1119,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,949.0,59.0,41.0,0.0
+1120,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1121,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1122,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1275.0,51.0,38.0,11.0
+1123,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1124,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1125,,927,GQR / Democracy Corps,GQR Research,126,GQR Research (GQRR),3.0,,,,Live Phone,,,,,,,Joe Biden,1000.0,52.0,37.0,0.0
+1126,,927,GQR / Democracy Corps,GQR Research,126,GQR Research (GQRR),3.0,,,,Live Phone,,,,,,,Joe Biden,1000.0,52.0,38.0,0.0
+1127,,927,GQR / Democracy Corps,GQR Research,126,GQR Research (GQRR),3.0,,,,Live Phone,,,,,,,Joe Biden,1000.0,51.0,39.0,0.0
+1128,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1556.0,50.0,38.0,11.0
+1129,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1556.0,50.0,38.0,11.0
+1130,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1131,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,36.0,13.0
+1132,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,36.0,13.0
+1133,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1201.0,51.0,40.0,9.0
+1134,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1201.0,51.0,40.0,9.0
+1135,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2013.0,58.0,36.0,6.0
+1136,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1137,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1138,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,33.0,0.0
+1139,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,49.0,0.0
+1140,,204,Hart Research Associates,Hart Research Associates,113,Garin-Hart-Yang Research Group,2.7,,,,Online,,,,,,,Joe Biden,1000.0,58.0,42.0,0.0
+1141,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,56.0,37.0,6.0
+1142,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1143,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,1100.0,58.0,34.0,0.0
+1144,,23,American Research Group,American Research Group,9,American Research Group,2.3,,,,Live Phone,,,,,,,Joe Biden,990.0,59.0,34.0,0.0
+1145,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1146,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,56.0,36.0,0.0
+1147,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,49.0,0.0
+1148,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1149,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1005.0,51.0,42.0,7.0
+1150,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,1021.0,56.0,40.0,5.0
+1151,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,48.0,0.0
+1152,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,35.0,0.0
+1153,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+1154,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1155,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,54.0,37.0,10.0
+1156,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,54.0,37.0,10.0
+1157,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1259.0,55.0,40.0,5.0
+1158,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1259.0,55.0,40.0,5.0
+1159,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1984.0,62.0,33.0,5.0
+1160,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1161,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1987.0,56.0,38.0,6.0
+1162,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,2835.0,59.0,41.0,0.0
+1163,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,34.0,0.0
+1164,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,4400.0,56.0,35.0,0.0
+1165,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,53.0,44.0,0.0
+1166,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1067.0,56.0,38.0,6.0
+1167,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1168,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1056.0,50.0,38.0,13.0
+1169,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,960.0,52.0,38.0,10.0
+1170,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,53.0,43.0,0.0
+1171,,1027,Saint Leo U.,Saint Leo University,299,Saint Leo University,1.5,,,,Online,,,,,,,Joe Biden,1000.0,60.9,32.3,0.0
+1172,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,34.0,0.0
+1173,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,57.0,35.0,0.0
+1174,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1175,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,45.0,0.0
+1176,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1177,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1001.0,57.0,35.0,0.0
+1178,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+1179,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1180,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,938.0,60.0,40.0,0.0
+1181,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+1182,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1183,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,50.0,37.0,13.0
+1184,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,50.0,37.0,13.0
+1185,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1306.0,53.0,40.0,8.0
+1186,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1306.0,53.0,40.0,8.0
+1187,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1188,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,2508.0,61.0,39.0,0.0
+1189,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,2508.0,61.0,39.0,0.0
+1190,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,46.0,0.0
+1191,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1986.0,59.0,35.0,6.0
+1192,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,55.0,33.0,0.0
+1193,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,47.0,0.0
+1194,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,60.0,32.0,8.0
+1195,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1196,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1197,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,48.0,0.0
+1198,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,34.0,0.0
+1199,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1005.0,57.0,34.0,0.0
+1200,,1102,Emerson College Polling Society,Emerson College,88,Emerson College,3.7,,,,IVR/Online,,,,,,,Joe Biden,1429.0,49.0,39.0,12.0
+1201,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,52.0,46.0,0.0
+1202,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,33.0,0.0
+1203,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,46.0,38.0,15.0
+1204,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,46.0,38.0,15.0
+1205,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1272.0,50.0,40.0,10.0
+1206,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1272.0,50.0,40.0,10.0
+1207,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,47.0,0.0
+1208,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,33.0,0.0
+1209,,169,Gallup,Gallup,112,Gallup,3.3,,,,Live Phone,,,,,,,Joe Biden,906.0,57.0,37.0,6.0
+1210,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,9000.0,56.0,37.0,7.0
+1211,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,33.0,0.0
+1212,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1986.0,58.0,35.0,6.0
+1213,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,33.0,0.0
+1214,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,51.0,45.0,0.0
+1215,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,1075.0,49.0,36.0,16.0
+1216,,396,Quinnipiac,Quinnipiac University,267,Quinnipiac University,3.7,,,,Live Phone,,,,,,,Joe Biden,983.0,50.0,36.0,14.0
+1217,,1360,AP-NORC,AP-NORC,397,AP-NORC,,,,,Live Phone/Online,,,,,,,Joe Biden,1055.0,61.0,38.0,1.0
+1218,,1406,Global Strategy Group/GBAO/Navigator Research,Global Strategy Group/GBAO (Navigator Research),413,Global Strategy Group/GBAO (Navigator Research),2.5,,,,Online,,,,,,,Joe Biden,1005.0,53.0,39.0,8.0
+1219,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,33.0,0.0
+1220,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,46.0,0.0
+1221,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,55.0,34.0,0.0
+1222,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,32.0,0.0
+1223,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,58.0,35.0,0.0
+1224,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,57.0,33.0,0.0
+1225,,1582,John Zogby Strategies/EMI Research Solutions,John Zogby Strategies/EMI Research Solutions,583,John Zogby Strategies/EMI Research Solutions,2.5,,,,Online,,,,,,,Joe Biden,841.0,56.1,36.4,7.5
+1226,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,945.0,61.0,39.0,0.0
+1227,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1261.0,53.0,29.0,0.0
+1228,,228,IBD/TIPP,IBD/TIPP,144,IBD/TIPP,4.3,,,,Online,,,,,,,Joe Biden,1002.0,58.0,29.0,0.0
+1229,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,32.0,0.0
+1230,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,33.0,0.0
+1231,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,50.0,45.0,0.0
+1232,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,3423.0,56.0,31.0,0.0
+1233,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,32.0,0.0
+1234,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,49.0,48.0,0.0
+1235,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,54.0,31.0,0.0
+1236,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1313.0,49.0,35.0,16.0
+1237,,1205,Marist,Marist College,183,Marist College,4.0,,,,Live Phone,,,,,,,Joe Biden,1153.0,50.0,36.0,14.0
+1238,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,58.0,32.0,0.0
+1239,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,48.0,0.0
+1240,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1500.0,51.0,33.0,16.0
+1241,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1500.0,51.0,33.0,16.0
+1242,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1245.0,52.0,36.0,12.0
+1243,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1245.0,52.0,36.0,12.0
+1244,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,30.0,0.0
+1245,,1302,Echelon Insights,Echelon Insights,407,Echelon Insights,2.5,,,,Online,,,,,,,Joe Biden,1006.0,55.0,33.0,12.0
+1246,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,30.0,0.0
+1247,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1990.0,59.0,32.0,9.0
+1248,Virginia,1515,Data for Progress,Data for Progress,522,Data for Progress,3.0,1589.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1164.0,57.0,36.0,7.0
+1249,Virginia,1515,Data for Progress,Data for Progress,522,Data for Progress,3.0,1589.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,45.0,Joe Biden,1164.0,57.0,36.0,7.0
+1250,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,2200.0,56.0,32.0,0.0
+1251,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,47.0,0.0
+1252,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,11444.0,56.0,34.0,10.0
+1253,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,53.0,29.0,0.0
+1254,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,809.0,54.0,30.0,16.0
+1255,,320,Monmouth U.,Monmouth University,215,Monmouth University,4.0,,,,Live Phone,,,,,,,Joe Biden,736.0,54.0,31.0,16.0
+1256,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,47.0,0.0
+1257,,1554,RMG Research,RMG Research,555,RMG Research,2.7,,,,IVR/Online/Text,,,,,,,Joe Biden,1200.0,58.0,32.0,11.0
+1258,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,52.0,29.0,0.0
+1259,,1416,HarrisX,HarrisX,133,Harris Insights & Analytics,3.3,,,,Online,,,,,,,Joe Biden,941.0,63.0,37.0,0.0
+1260,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,51.0,28.0,0.0
+1261,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,9000.0,54.0,31.0,15.0
+1262,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,1993.0,56.0,31.0,0.0
+1263,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,1115.0,55.0,32.0,13.0
+1264,,241,Ipsos,Ipsos,154,Ipsos,2.7,,,,Online,,,,,,,Joe Biden,950.0,57.0,32.0,11.0
+1265,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,McAuliffe,Terry R. McAuliffe,DEM,50.0,Joe Biden,1516.0,45.0,28.0,26.0
+1266,Virginia,568,YouGov,YouGov,391,YouGov,3.3,1040.0,lv,lv,Online,Governor,False,Youngkin,Glenn Youngkin,REP,47.0,Joe Biden,1516.0,45.0,28.0,26.0
+1267,,399,Rasmussen (Pulse Opinion Research),Rasmussen Reports/Pulse Opinion Research,277,Rasmussen Reports/Pulse Opinion Research,3.0,,,,IVR/Online,,,,,,,Joe Biden,1500.0,48.0,45.0,0.0
+1268,,1189,Morning Consult,Morning Consult,218,Morning Consult,3.0,,,,Online,,,,,,,Joe Biden,15000.0,50.0,28.0,0.0
