@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
-
+from sklearn.metrics import mean_squared_error
 
 cwd = os.getcwd()
 path =r'C:\Users\xiaor\Documents\GitHub\Final-Project'
@@ -64,14 +64,26 @@ df = df.replace({'fte_grade':fte_dict}) #five thirty eight column replaced with 
 df_democrat = df[df['candidate_party'] == 'DEM']
 df_republican = df[df['candidate_party'] == 'REP']
 ####
-# Linear Regression
+# Linear Regression & Machine Learning
 ####
 
 X = df_democrat.iloc[:, 16].values.reshape(-1, 1) #percentage index starting from 0
 Y = df_democrat.iloc[:, 19].values.reshape(-1, 1) #yes approval for biden
+
+#split exo X and endo Y into training and testing sets
+X_train, X_test, Y_train, Y_test = train_test_split(X,Y, test_size=0.3, random_state= 66)
+
 linear_regressor = LinearRegression()
 linear_regressor.fit(X, Y)
-Y_pred = linear_regressor.predict(X)
+Y_pred = linear_regressor.predict(X_test)  #Y_predict computed based on X_test
+
+
+mse_democrat= mean_squared_error(Y_test,Y_pred)  #calculate the MSE
+
+print('the mse of this model: {}'.format(mse_democrat))
+
+
+
 
 model =sm.OLS(Y, X).fit()
 print_model = model.summary()
@@ -82,8 +94,16 @@ print(print_model)     #displaying OLS model summary p values for democrats
 X2 = df_democrat[['pct','sample_size_president','fte_grade','sample_size_governor']]
 Y2 = df_democrat['no']
 
+
+#split exo X and endo Y into training and testing sets
+X2_train, X2_test, Y2_train, Y2_test = train_test_split(X,Y, test_size=0.4, random_state= 66)
+
 regr = linear_model.LinearRegression()
 regr.fit(X2, Y2)
+
+Y2_pred = linear_regressor.predict(X2_test)  #Y_predict computed based on X_test
+
+mse_multi_democrat = mean_squared_error(Y2_test,Y2_pred)  #calculate the MSE
 
 model2 =sm.OLS(Y2, X2).fit()
 print_model2 = model2.summary()
@@ -130,8 +150,10 @@ print(regres3.score(X_test,Y_test))
 ###
 ### RandomForestRegresor test yields the highest Determination of Coefficent
 ### As known as the R-square. We look at the test score b/c its unbiased
+
 ###
-#traina and plot
+#train and plot
+###
 plt.style.use('fivethirtyeight')  #since data source from 538, use its style
 
 ## plotting residual errors in training data
@@ -159,7 +181,7 @@ plt.savefig('machine_learning_resid.png')
 ####
 fig, ax = plt.subplots()
 ax.scatter(X, Y)
-ax.plot(X, Y_pred, color='red')
+ax.plot(X_test, Y_pred, color='red')
 fig.show()
 fig.savefig("regression.png")
 fig.clear()
@@ -194,7 +216,7 @@ def piechart(df, element, explode):
 
 methodology_pie = piechart(df, 'methodology', explode_method) #yielding pie chart
 
-parties_pie = piechart(df, 'candidate_party', explode_party)
+#parties_pie = piechart(df, 'candidate_party', explode_party)
 
 ####
 
