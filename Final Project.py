@@ -61,6 +61,8 @@ df =df.rename(columns = {'sample_size_x':'sample_size_governor','sample_size_y':
 fte_dict = {'A+':4.3,'A':4.0,'A-':3.7,'B+':3.3,'B':3.0,'B-':2.7,'C+':2.3,'C':2.0,'C-':1.7,'D+':1.3,'D':1.0,'A/B':3.5,'B/C':2.5,'C/D':1.5,}
 df = df.replace({'fte_grade':fte_dict}) #five thirty eight column replaced with numerical, referenced from UChicago GPA agenda
 
+df.to_csv('df_merged.csv')  #export to csv
+
 df_democrat = df[df['candidate_party'] == 'DEM']
 df_republican = df[df['candidate_party'] == 'REP']
 ####
